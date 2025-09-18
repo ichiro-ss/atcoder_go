@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -n constest?
+echo -n contest?
 read c
 
 echo $c > ./contest
